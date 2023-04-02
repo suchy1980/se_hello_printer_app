@@ -1,5 +1,4 @@
-from hello_world.formater \
-    import plain_text_upper_case
+from hello_world.formater import plain_text_upper_case
 import unittest
 
 
